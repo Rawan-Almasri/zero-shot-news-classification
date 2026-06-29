@@ -1,0 +1,15 @@
+# Core Data Processing
+pandas
+numpy
+
+# Visualization
+matplotlib
+
+# NLP / Transformers
+transformers
+
+# Zero-shot classification model
+gliclass
+
+# Optional but recommended for compatibility
+torch
